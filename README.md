@@ -90,21 +90,20 @@
 </table>
 
   ### 🥝 Smart Contract | Blockchain 🥝
-    ⭐ Blockchain Developer ⭐
-    - Ehtereum
-    - ERC20, ERC721, ERC721A, ERC1155 ...
-    - Solidity, GoLang
-    - Cryptocurrency
+    ⭐ Blockchain developer with 5+ years of experience in solidity, rust, web3.js, ether.js
+      - Experienced in NFT marketplace, Ethereum, Flow, Polygon, Cardano networks and I am very familiar 
+        with implementing ERC20, ERC721, ERC1155. 
+      - NFT minting, NFT drop, Smart Contract with Solidity, Cadence, Rust, Haskell.
 
   ### 🥝 Web | Mobile 🥝
-    ⭐ Web & Mobile Full Stack Developer ⭐
-    - Languages: HTML, CSS, JavaScript, Typescript, Python, PHP, SQL
-    - JS Frontend Frameworks: React, Vue.js, Next.js
-    - JS Backend Frameworks: Node.js, Express.js,
-    - PHP Backend Frameworks: Laravel
-    - Python Backend Frameworks: Django
-    - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, D3.js, Three.js
-    - Mobile Frameworks: React Native
+    ⭐ Web & Mobile Full Stack Developer with 8+ years of experience in
+      - Languages: HTML, CSS, JavaScript, Typescript, Python, PHP, SQL, JQuery, Swift, Java
+      - JS Frontend Frameworks: React, Vue.js, Next.js, Angular.js
+      - JS Backend Frameworks: Node.js, Express.js,
+      - PHP Backend Frameworks: Laravel
+      - Python Backend Frameworks: Django
+      - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, D3.js, Three.js
+      - Mobile Frameworks: React Native, Flutter, Xamarin
   
 ### 🔥 &nbsp; My Stats :
 
