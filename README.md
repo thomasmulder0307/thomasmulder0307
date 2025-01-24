@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Thomas, Senior Full Stack Developer
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=thomasmulder0307.thomasmulder0307&format=true)
 
 - 👀 Rich experience in the software industry
 - 🔭 Rich experience in web development with Python & JS & PHP frameworks 
@@ -121,7 +122,8 @@
 </p>
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=thomasmulder0307.visitor-badge&left_color=red&right_color=green" />
 <h1 align="center"></h1>
 </br>
 
