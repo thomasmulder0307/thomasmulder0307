@@ -109,19 +109,19 @@
 
 <p align="center">
 
-<a href="https://github.com/bstar0406?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bstar0406&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@bstar0406's github-readme-stats"/></a>
+<a href="https://github.com/thomasmulder0307?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=thomasmulder0307&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@thomasmulder0307's github-readme-stats"/></a>
 
 </p>
 
  <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@bstar0406">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bstar0406&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@thomasmulder0307">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomasmulder0307&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=thomasmulder0307.thomasmulder0307" />
 <h1 align="center"></h1>
 </br>
 
