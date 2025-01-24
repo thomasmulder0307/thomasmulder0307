@@ -1,6 +1,4 @@
-# 👋 Hi, I’m @thomasmulder0307
-
-# ❤️ Senior Full Stack Developer ❤️
+# 👋 Hi, I’m Thomas, Senior Full Stack Developer
 
 - 👀 Rich experience in the software industry
 - 🔭 Rich experience in web development with Python & JS & PHP frameworks 
