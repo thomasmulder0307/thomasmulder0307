@@ -109,8 +109,15 @@
 
 <p align="center">
 
-<a href="https://github.com/thomasmulder0307?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=thomasmulder0307&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@thomasmulder0307's github-readme-stats"/></a>
+<!-- <a href="https://github.com/thomasmulder0307?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=thomasmulder0307&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@thomasmulder0307's github-readme-stats"/></a> -->
 
+<a href="https://github.com/thomasmulder0307?tab=repositories">
+      <img alt="dr.Thomas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thomasmulder0307&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/>
+    </a>
+    <a href="https://github.com/thomasmulder0307?tab=repositories">
+      <img alt="dr.Thomasm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thomasmulder0307&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>
+    
 </p>
 
  <!-- activity graph heroku-app start -->
